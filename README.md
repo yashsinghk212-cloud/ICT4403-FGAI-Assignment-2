@@ -131,3 +131,5 @@ Means over 5 seeds x 50 words per model and temperature (so each cell is only 25
 
 **Caveats.** The composite lead over LSTM is small and depends on the chosen criteria and equal weights; GRU is also the slowest to train here. Results come from a single training run and 5 seeds, the coherence/consistency measures are proxies (n-gram validity against the training corpus), and the generated text, while stylistically Shakespearean, is not semantically coherent for any model. If training cost were the main concern, SimpleRNN/BiRNN give about 15 % higher perplexity at roughly half the training time. Natural next steps would be a longer context, several random seeds with confidence intervals, and a larger corpus or a Transformer baseline.
 
+#   I C T 4 4 0 3 - F G A I - A s s i g n m e n t - 2 .  
+ 
