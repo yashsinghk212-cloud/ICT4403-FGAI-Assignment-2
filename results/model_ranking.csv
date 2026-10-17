@@ -1,0 +1,5 @@
+Model,Test perplexity (low),Test top-5 acc (high),Train time (low),Bigram validity (high),Trigram validity (high),Distinct-2 (high),Rep-3 (low),Mean rank
+BiRNN,3.0,4.0,1.0,4.0,4.0,1.5,3.0,2.929
+GRU,1.0,1.0,4.0,1.0,1.0,4.0,2.0,2.0
+LSTM,2.0,2.0,3.0,3.0,2.0,1.5,1.0,2.071
+SimpleRNN,4.0,3.0,2.0,2.0,3.0,3.0,4.0,3.0
